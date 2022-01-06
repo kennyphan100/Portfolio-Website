@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.bb8afc74.css",
+    "main.js": "/Portfolio-Website/static/js/main.bd89c1b9.js",
+    "static/js/787.3533ff27.chunk.js": "/Portfolio-Website/static/js/787.3533ff27.chunk.js",
+    "static/media/kenny.jpg": "/Portfolio-Website/static/media/kenny.5bdf63b9f7f0783af203.jpg",
+    "static/media/ecommerce.png": "/Portfolio-Website/static/media/ecommerce.282520e7fcdb933deefc.png",
+    "static/media/sorting.png": "/Portfolio-Website/static/media/sorting.b3d08fdfd0da866e6e09.png",
+    "static/media/cli_commands.png": "/Portfolio-Website/static/media/cli_commands.b2291a51cbc8d7d760a3.png",
+    "static/media/covid19_tracker.png": "/Portfolio-Website/static/media/covid19_tracker.7438e4d2d5cd03f3f372.png",
+    "static/media/task_tracker.png": "/Portfolio-Website/static/media/task_tracker.d32355d68336d8c41381.png",
+    "static/media/white_wallpaper.jpg": "/Portfolio-Website/static/media/white_wallpaper.efe0d1221af796113d81.jpg",
+    "static/media/kp_logo.png": "/Portfolio-Website/static/media/kp_logo.680ea83b60d96f080d50.png",
+    "static/media/tic-tac-toe.png": "/Portfolio-Website/static/media/tic-tac-toe.ba55752a6669dd037234.png",
+    "static/media/jira.png": "/Portfolio-Website/static/media/jira.2495a3be930e02bfc3d9.png",
+    "static/media/sudoku.png": "/Portfolio-Website/static/media/sudoku.7d889c95d9131c7e3c21.png",
+    "static/media/js.png": "/Portfolio-Website/static/media/js.f849fca0964cdbe42aad.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.bb8afc74.css.map": "/Portfolio-Website/static/css/main.bb8afc74.css.map",
+    "main.bd89c1b9.js.map": "/Portfolio-Website/static/js/main.bd89c1b9.js.map",
+    "787.3533ff27.chunk.js.map": "/Portfolio-Website/static/js/787.3533ff27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb8afc74.css",
+    "static/js/main.bd89c1b9.js"
+  ]
+}
