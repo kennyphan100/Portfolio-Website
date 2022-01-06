@@ -3,9 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import SideNav from './components/SideNav';
 
 ReactDOM.render(
   <React.StrictMode>
+    <SideNav/>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
