@@ -7,6 +7,7 @@ import breakout_ball from './../images/breakout_ball.png';
 import flappybird from './../images/flappybird.png';
 import covid19_tracker from './../images/covid19_tracker.png';
 import cli_commands from './../images/cli_commands.png';
+import spacetagram from './../images/spacetagram_img.png';
 
 export default function Projects() {
     return (
@@ -29,7 +30,7 @@ export default function Projects() {
                                     <span> | </span>
                                     <a href="https://kennyphan100.github.io/Sorting-Algorithms-Visualizer/" target="_blank" rel="noreferrer"> Website</a>
                                 </p>
-                                <p class="technologies">Technologies: React.js, JavaScript, HTML5, CSS3</p>
+                                <p class="technologies">Technologies: React.js, JavaScript, HTML5, CSS3/Bootstrap</p>
                             </div>
 
                         </div>
@@ -47,7 +48,7 @@ export default function Projects() {
                                     <span> | </span>
                                     <a href="https://online-grocery-store-cloud.herokuapp.com/" target="_blank" rel="noreferrer"> Website</a>
                                 </p>
-                                <p class="technologies">Technologies: PHP, JavaScript, MySQL, HTML5, CSS3,</p>
+                                <p class="technologies">Technologies: PHP, JavaScript, MySQL, HTML5, CSS3</p>
                             </div>
                         </div>
                     </div>
@@ -70,6 +71,23 @@ export default function Projects() {
                     <div className="col-4">
                         <div className="card medium">
                             <div class="card-image waves-effect waves-block waves-light">
+                                <img src={spacetagram} alt="" />
+                            </div>
+                            <div class="card-content">
+                                <div class="project_title">Spacetagram</div>
+                                <p class="links">
+                                    <a href="https://github.com/kennyphan100/Spacetagram" target="_blank" rel="noreferrer">GitHub</a>
+                                    <span> | </span>
+                                    <a href="https://kennyphan100.github.io/Spacetagram/" target="_blank" rel="noreferrer"> Website</a>
+                                </p>
+                                <p class="technologies">Technologies: React.js, JavaScript, HTML5, CSS3/Bootstrap</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="col-4">
+                        <div className="card medium">
+                            <div class="card-image waves-effect waves-block waves-light">
                                 <img src={task_tracker} alt="" />
                             </div>
                             <div class="card-content">
@@ -79,7 +97,7 @@ export default function Projects() {
                                     <span> | </span>
                                     <a href="https://kennyphan100.github.io/Task-Tracker/" target="_blank" rel="noreferrer"> Website</a>
                                 </p>
-                                <p class="technologies">Technologies: React.js, JavaScript, HTML5, CSS3 </p>
+                                <p class="technologies">Technologies: React.js, JavaScript, HTML5, CSS3/Bootstrap </p>
                             </div>
                         </div>
                     </div>
@@ -138,20 +156,6 @@ export default function Projects() {
                                 <div class="project_title">Breakout Ball</div>
                                 <p class="links">
                                     <a href="https://github.com/kennyphan100/Breakout-Game" target="_blank" rel="noreferrer">GitHub</a>
-                                </p>
-                                <p class="technologies">Technologies: Java, Swing</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-4">
-                        <div className="card medium">
-                            <div class="card-image waves-effect waves-block waves-light">
-                                <img src={flappybird} alt="" />
-                            </div>
-                            <div class="card-content">
-                                <div class="project_title">Flappy Bird</div>
-                                <p class="links">
-                                    <a href="https://github.com/kennyphan100/Flappy-Bird" target="_blank" rel="noreferrer">GitHub</a>
                                 </p>
                                 <p class="technologies">Technologies: Java, Swing</p>
                             </div>
